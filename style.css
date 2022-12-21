@@ -59,6 +59,7 @@ form input {
     outline: none;
     color: #FFFFFF;
     margin-bottom: 26px;
+    height: 26px;
 }
 
 form button {
